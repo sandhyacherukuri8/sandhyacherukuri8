@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandhyacherukuri8
-- 👀 I’m interested in Web Development , Java Development ,SoftwareDevelopment
-- 🌱 I’m currently learning Java with Datastructures.
-- 💞️ I have Good knowledge in HTML ,CSS , JavaScript ,Core Java , Oops concepts , SQl ,Excel .
+- 👀 I’m interested in Data Analysis, Reports building, Web Development ,SoftwareDevelopment
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I have Good knowledge in MS Excel,MySQl,PowerBI, Tableau, HTML ,CSS ,Core Java , Oops concepts.
 - 📫 How to reach me .. Email : sandhyacherukuri8@gmail.com
 - 😄 Pronoun : She/her
 - ⚡ Fun fact: Happy coding !!!
