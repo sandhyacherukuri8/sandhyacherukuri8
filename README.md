@@ -1,4 +1,4 @@
-<img align = "center" width ="100% " src="https://github.com/sandhyacherukuri8/Sandhya-Cherukuri/blob/main/Banner.png">
+<img align = "center" width ="100% " src="https://github.com/sandhyacherukuri8/sandhyacherukuri8/blob/main/Banner.png">
 <h1 align="center">Hi 👋, I'm Sandhya Cherukuri</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 
