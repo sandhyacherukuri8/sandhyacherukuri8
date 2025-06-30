@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Core Python , its Libraries for Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sandhyacherukuri8?tab=repositories](https://github.com/sandhyacherukuri8?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sandhyacherukuri8?tab=repositories)
 
 - 📫 How to reach me **sandhyacherukuri8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WSYpnMcL-3qe7UtMRFVqgK0POYL_4Jvt/view?usp=drive_link](https://drive.google.com/file/d/1WSYpnMcL-3qe7UtMRFVqgK0POYL_4Jvt/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1t8d3ARqsq6qrfawrButi6bV2YN3fwpd9/view?usp=drive_link)
 
 - ⚡ Fun fact **I am funny😉**
 
