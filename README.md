@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sandhyacherukuri8@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1t8d3ARqsq6qrfawrButi6bV2YN3fwpd9/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1UABAR4Kluk2Te6DY_3p5TuHEflSN14PI/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny😉**
 
